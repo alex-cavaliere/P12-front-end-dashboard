@@ -13,7 +13,7 @@ To start this project, you are free to use Docker or not. In this documentation,
 - [NodeJS (**version 12.18**)](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
 
-If you are working with several versions of NodeJS, we recommend you install [nvm](https://github.com/nvm-sh/nvm). This tool will allow you to easily manage your NodeJS versions.
+If you are working with several versions of NodeJS, we recommend you install [npm](https://github.com/nvm-sh/nvm). This tool will allow you to easily manage your NodeJS versions.
 
 ### 2.2 Launching the project
 
